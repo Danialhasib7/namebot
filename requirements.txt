@@ -1,0 +1,8 @@
+
+re
+googletrans
+gtts
+pillow
+mutagen
+requests
+rubika
